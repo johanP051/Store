@@ -14,6 +14,9 @@ pip3 install -r requeriments.txt
 ## Program initialization
 Make sure you have installed mongodb and python3
 
+* **Linux**: https://docs.mongodb.com/manual/administration/install-on-linux/
+* **Windows**: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
 ### Start Mongod service
 
 * If you are in linux, run:
