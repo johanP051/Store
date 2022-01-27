@@ -2,10 +2,14 @@
 An store simulator using MongoDB and Python
 
 ## Clone the repository
-```git clone https://github.com/johanP051/Store.git```
+```
+git clone https://github.com/johanP051/Store.git
+```
 
 ## Libraries installation
-```pip3 install -r requeriments.txt```
+```
+pip3 install -r requeriments.txt
+```
 
 ## Program initialization
 Make sure you have installed mongodb and python3
@@ -19,8 +23,9 @@ sudo systemctl status mongod
 
 ```
 * If you are in windows, run:
-
-```mongod```
+```
+mongod
+```
 
 ### Run the program
 ```
