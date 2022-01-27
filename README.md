@@ -12,13 +12,14 @@ Make sure you have installed mongodb and python3
 
 ### Start Mongod service
 
-* If you are in linux
+* If you are in linux, run:
 ```
 sudo systemctl start mongod
 sudo systemctl status mongod
 
 ```
-*If you are in windows
+* If you are in windows, run:
+* 
 ```mongod```
 
 ### Run the program
