@@ -19,7 +19,7 @@ sudo systemctl status mongod
 
 ```
 * If you are in windows, run:
-* 
+
 ```mongod```
 
 ### Run the program
